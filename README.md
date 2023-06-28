@@ -1,6 +1,4 @@
-## architecture_landing_page
-
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+# architecture_landing_page
 
 ## Description
 
